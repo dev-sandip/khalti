@@ -41,6 +41,12 @@ export default function Products() {
       <h1 className="text-3xl font-bold mb-6 text-center">
         Explore Our Products
       </h1>
+      <p className="text-center text-gray-600 mb-3">
+        Click on the product to buy it now.
+      </p>
+      <p className="text-center text-gray-600 mb-6">
+        Made with ❤️ by <a href="https://github.com/dev-sandip" className="text-purple-500">Sandip</a>
+      </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {loading ? (
           Array(6).fill(0).map((_, index) => (
