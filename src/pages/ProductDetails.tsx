@@ -60,8 +60,8 @@ export default function ProductDetails() {
           email: customerEmail,
           phone: customerPhone,
         },
-        return_url: "http://localhost:3000/success",
-        website_url: "http://yourwebsite.com",
+        return_url: `${window.location.origin}/success`,
+        website_url: window.location.origin,
       }
       initiate(paymentRequest)
       setIsDialogOpen(false)
