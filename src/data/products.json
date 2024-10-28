@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "price": 1000,
+    "image_url": ""
+  },
+  {
+    "id": "2",
+    "name": "Luxury Leather Handbag",
+    "description": "Elegant leather handbag perfect for any occasion.",
+    "price": 2000,
+    "image_url": ""
+  },
+  {
+    "id": "3",
+    "name": "Gaming Laptop",
+    "description": "Powerful gaming laptop with high-end graphics and performance.",
+    "price": 3000,
+    "image_url": "https://example.com/images/gaming_laptop.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with advanced features.",
+    "price": 800,
+    "image_url": "https://example.com/images/smartphone.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Smartwatch",
+    "description": "Stylish smartwatch with fitness tracking capabilities.",
+    "price": 250,
+    "image_url": "https://example.com/images/smartwatch.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality.",
+    "price": 150,
+    "image_url": "https://example.com/images/bluetooth_speaker.jpg"
+  },
+  {
+    "id": "7",
+    "name": "4K Ultra HD TV",
+    "description": "Stunning picture quality with smart TV features.",
+    "price": 1200,
+    "image_url": "https://example.com/images/4k_tv.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Digital Camera",
+    "description": "High-resolution digital camera for photography enthusiasts.",
+    "price": 900,
+    "image_url": "https://example.com/images/digital_camera.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with exclusive titles.",
+    "price": 500,
+    "image_url": "https://example.com/images/gaming_console.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Electric Toothbrush",
+    "description": "Advanced electric toothbrush for superior dental care.",
+    "price": 100,
+    "image_url": "https://example.com/images/electric_toothbrush.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Air Purifier",
+    "description": "Removes pollutants and allergens from the air.",
+    "price": 300,
+    "image_url": "https://example.com/images/air_purifier.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Coffee Maker",
+    "description": "Brew your favorite coffee at home with ease.",
+    "price": 120,
+    "image_url": "https://example.com/images/coffee_maker.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Instant Pot",
+    "description": "Multi-functional cooker for quick meals.",
+    "price": 90,
+    "image_url": "https://example.com/images/instant_pot.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Electric Kettle",
+    "description": "Quickly boil water for tea or cooking.",
+    "price": 50,
+    "image_url": "https://example.com/images/electric_kettle.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Fitness Tracker",
+    "description": "Monitor your health and fitness goals.",
+    "price": 70,
+    "image_url": "https://example.com/images/fitness_tracker.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Portable Charger",
+    "description": "Keep your devices charged on the go.",
+    "price": 30,
+    "image_url": "https://example.com/images/portable_charger.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse for comfortable use.",
+    "price": 25,
+    "image_url": "https://example.com/images/wireless_mouse.jpg"
+  },
+  {
+    "id": "18",
+    "name": "External Hard Drive",
+    "description": "Store and backup your important files easily.",
+    "price": 100,
+    "image_url": "https://example.com/images/external_hard_drive.jpg"
+  },
+  {
+    "id": "19",
+    "name": "VR Headset",
+    "description": "Immersive virtual reality experience.",
+    "price": 400,
+    "image_url": "https://example.com/images/vr_headset.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Drone",
+    "description": "Capture stunning aerial photos and videos.",
+    "price": 600,
+    "image_url": "https://example.com/images/drone.jpg"
+  }
+]
