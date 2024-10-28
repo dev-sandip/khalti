@@ -6,7 +6,7 @@ For detailed project documentation, please refer to the blog post [here](https:/
 
 Here is a video demonstration of the project:
 
-<video width="640" height="480" controls>
-  <source src="./public/Screen-Recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/f889a34c-d48d-4a20-8a4e-d4c1b126744b
+
+
+
